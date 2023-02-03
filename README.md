@@ -1,2 +1,3 @@
 # PanPayments - Cobra en tu tienda con Cryptos
-<a>PanPayments gateway in PHP.</a>
+- PanPayments gateway in PHP.
+- Cobra a tus clientes con cryptos gracias a PanPayments
